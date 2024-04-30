@@ -8,7 +8,7 @@ python iftop-stack.py
 Shows all background newtork connections 
 - All IP Connections
 - Which programs are making the connections
-- Which company they are connecting
+- Which companies they are connecting
 
 # Output
 ```sh
