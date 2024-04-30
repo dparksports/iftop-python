@@ -26,5 +26,6 @@ Shows all background newtork connections
 
 # Note
 ## No root required
-
+## Continuously shows new connections
+## Restart it, to remove the showing of the old connections
 
